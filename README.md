@@ -1,6 +1,6 @@
 # spring-jpa-evento
 
-Projeto desenvolvido para demonstrar, na prática, os conceitos de Mapeamento Objeto-Relacional (ORM) e construção de Modelo de Domínio utilizando Java, Spring Boot e JPA/Hibernate[cite: 7].
+Projeto desenvolvido para demonstrar, na prática, os conceitos de Mapeamento Objeto-Relacional (ORM) e construção de Modelo de Domínio utilizando Java, Spring Boot e JPA/Hibernate.
 
 ## 📚 Conceitos Aplicados
 
